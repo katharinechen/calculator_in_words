@@ -9,7 +9,7 @@ The objective of this project is to create a method that takes math questions in
 ##Functionality 
 ```ruby
 calculator_in_words("What is 3 times 5?") ##return 15
-calculator_in_words(""What is 5 plus 3?") ##return 8
+calculator_in_words("What is 5 plus 3?") ##return 8
 ```
 
 ##License
