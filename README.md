@@ -1,23 +1,16 @@
-Calculator in Words!
-=====================
+#Calculator in Words 
 
+##About
+This project was completed by Katharine Chen and Justin Speers for Epicodus (Week#3 Day #5). 
 
-#Description
-calculator_in_words(phrase)
+##Description 
+The objective of this project is to create a method that takes math questions in English and solves them, using a bit of Regular Expressions. 
 
-Returns the mathematical result of phrase, a string with a math question.
+##Functionality 
+```ruby
+calculator_in_words("What is 3 times 5?") ##return 15
+calculator_in_words(""What is 5 plus 3?") ##return 8
+```
 
-
-#Example
-calculator_in_words "What is 3 times 5?"
-=> 8
-
-#Authors
-Katharine Chen & Justin Speers
-
-#Date
-7/25/2014
-
-
-
-
+##License
+MIT
